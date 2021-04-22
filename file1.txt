@@ -6,3 +6,5 @@ SAVE
 We have made out first commit.
 Commit is like taking a snapshot in a moment. It contained the changes made.
 
+
+We just wanted to add some new lines
