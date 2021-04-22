@@ -1,3 +1,8 @@
-file1.txt
+
 
 1. Create a File under the folder 
+SAVE
+
+We have made out first commit.
+Commit is like taking a snapshot in a moment. It contained the changes made.
+
